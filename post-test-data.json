@@ -1,0 +1,6 @@
+{
+    "name": "John Doe",
+    "temperature": 37.2,
+    "hasSymptoms": false,
+    "closeContact": true
+}
